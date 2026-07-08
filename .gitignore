@@ -1,0 +1,4 @@
+hello
+*.out
+*.exe
+.DS_Store
